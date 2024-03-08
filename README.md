@@ -1,6 +1,6 @@
 #  Hi! I'm Rafael Bastos
 
-🎯 `Full-Stack Developer`
+🎯 `Psychometrician`
  
 I'm a psychometrician seeking opportunities from abroad. My philosophy revolves around meticulously running great research and using code to address tangible, real-world challenges. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
